@@ -1,0 +1,13 @@
+{
+  "name": "STEM 그레이",
+  "description": "연한 회색 바탕과 검은 글자",
+  "background": "background.png",
+  "overlay": "overlay.png",
+  "thumbnail": "thumbnail.png",
+  "slots": [
+    {"x": 34, "y": 245, "width": 532, "height": 319},
+    {"x": 34, "y": 585, "width": 532, "height": 319},
+    {"x": 34, "y": 925, "width": 532, "height": 319},
+    {"x": 34, "y": 1265, "width": 532, "height": 319}
+  ]
+}
